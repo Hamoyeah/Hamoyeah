@@ -98,22 +98,3 @@ goal:        Best of the Best (BOB)  ·  실전 성과를 내는 나만의 AI �
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sanghyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghyeok03&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyeok03&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![Streak](https://streak-stats.demolab.com/?user=sanghyeok03&theme=dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"고전적 방법을 넘어, AI를 활용한 재현 가능하고 확장 가능한 보안 리서치로."*
-
-</div>
