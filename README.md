@@ -26,10 +26,6 @@ education:   Gachon Univ. — Smart Security (3rd year)
 program:     KISA White Hat School 4기  ·  반장(Class Rep)
 focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 ```
-
-- 🔍 웹 취약점 분석, 침투 테스트, 버그바운티 실전 리서치를 이어가고 있습니다.
-- 🤖 LLM 추론을 취약점 탐지·판별에 접목하는 **AI 기반 DAST 파이프라인** 프로젝트를 진행중입니다.
-
 ---
 
 ## 🛠️ Tech & Tools
