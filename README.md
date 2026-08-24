@@ -51,30 +51,26 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 
 ---
 
+## 🏆 Assigned CVEs
+
+| CVE ID | Target | Type | Severity | Description |
+| :--- | :--- | :--- | :---: | :--- |
+| [**CVE-2026-78280**](https://patchstack.com/database/wordpress/plugin/hash-form/vulnerability/wordpress-hash-form-plugin-1-4-0-cross-site-request-forgery-csrf-vulnerability) | WordPress **Hash Form** Plugin ≤ 1.4.0 | CSRF | ![CVSS 4.3](https://img.shields.io/badge/CVSS-4.3-yellow?style=flat-square) | 비인증 공격자가 인증된 사용자에게 의도치 않은 동작을 강제할 수 있는 CSRF 취약점 · v1.4.1 패치 |
+
+---
+
 ## 🚀 Projects
 
 | Project | Description |
 | :--- | :--- |
 | 🍯 **LLM Prompt Injection Honeypot** | 프롬프트 인젝션 공격을 허니팟 방식으로 유인·대응하는 모델 제작 *(CMUX × AIM 해커톤)* |
-| 🛡️ **Security Monitoring System** | 보안 관제 시스템 설계 및 구현 *(Genspark)* |
-| 🏃 **Running App** | 러닝 기록·관리 애플리케이션 개발 |
-| 🔮 **오늘의 운세 (fortune-site / myfortune_web)** | 운세 서비스 기획 및 제작 |
+| 🛡️ **Security Monitoring System** | 보안 관제 시스템 설계 및 구현 *(Genspark 해커톤)* |
 | 💥 **CVE-2023-44487 Lab** | HTTP/2 Rapid Reset 취약 환경 구성 및 공격 재현·테스트 |
 | 🚩 **CTF** | 다수 대회 참여 (Web / Misc 중심) |
 
 ---
 
 ## 🐛 Bug Bounty & Vulnerability Research
-
-> 다양한 취약점 클래스를 실제 자산에서 독립적으로 발견·제보한 이력입니다.
-
-### 🏆 Assigned CVEs
-
-| CVE ID | Target | Type | Severity | Description |
-| :--- | :--- | :--- | :---: | :--- |
-| [**CVE-2026-78280**](https://patchstack.com/database/wordpress/plugin/hash-form/vulnerability/wordpress-hash-form-plugin-1-4-0-cross-site-request-forgery-csrf-vulnerability) | WordPress **Hash Form** Plugin ≤ 1.4.0 | CSRF | ![CVSS 4.3](https://img.shields.io/badge/CVSS-4.3-yellow?style=flat-square) | 비인증 공격자가 인증된 사용자에게 의도치 않은 동작을 강제할 수 있는 CSRF 취약점 발견 · v1.4.1에서 패치 완료 |
-
-### 📋 Reported Vulnerability Classes
 
 `CSRF` · `Clickjacking` · `CORS Misconfiguration` · `Prompt Injection` · `Information Disclosure` · `Arbitrary File Exfiltration` · `IDOR`
 
@@ -85,9 +81,9 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 
 **Patchstack** — CVE 발급
 
-- [**CVE-2026-78280**](https://patchstack.com/database/wordpress/plugin/hash-form/vulnerability/wordpress-hash-form-plugin-1-4-0-cross-site-request-forgery-csrf-vulnerability) — WordPress Hash Form Plugin ≤ 1.4.0 CSRF 취약점 발견 및 제보 · OWASP A1: Broken Access Control
+- [**CVE-2026-78280**](https://patchstack.com/database/wordpress/plugin/hash-form/vulnerability/wordpress-hash-form-plugin-1-4-0-cross-site-request-forgery-csrf-vulnerability) — WordPress Hash Form Plugin ≤ 1.4.0 CSRF 취약점 발견 및 제보
 
-**HackerOne** — 아래 6건 제보 *(모두 Duplicate 판정 · 유효 취약점 독립 발견)*
+**HackerOne** — 6건 제보 *(Duplicate 판정 · 유효 취약점 독립 발견)*
 
 - **Clickjacking** — Login/Signup/Password Reset 페이지의 Framing 보호 미비
 - **Prompt Injection** — `claude-code-action`의 Context Prompt 내 비정제 XML 태그
@@ -96,11 +92,10 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 - **Information Disclosure** — `debug_traceBlockByNumber` RPC 메서드 노출 *(testnet RPC)*
 - **Arbitrary File Exfiltration** — Cache Symlink Escape를 통한 임의 파일 유출
 
-**FinderGap**
+**Findthegap**
 
-- **IDOR** 취약점 제보 *(자체 검증 실수로 제보 취소)*
+- **IDOR** 취약점 제보
 
 </details>
 
 ---
-
