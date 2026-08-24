@@ -10,6 +10,7 @@
 
 ![Web Hacking](https://img.shields.io/badge/Web_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-1B1F23?style=for-the-badge&logo=hackerone&logoColor=white)
+![CVE](https://img.shields.io/badge/CVE_Hunter-DC143C?style=for-the-badge&logo=cveproject&logoColor=white)
 ![Reversing](https://img.shields.io/badge/Reverse_Engineering-2D2D2D?style=for-the-badge&logo=ghidra&logoColor=white)
 ![CTF](https://img.shields.io/badge/CTF_Player-121212?style=for-the-badge&logo=flag&logoColor=red)
 
@@ -67,13 +68,24 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 
 > 다양한 취약점 클래스를 실제 자산에서 독립적으로 발견·제보한 이력입니다.
 
-**Reported Vulnerability Classes**
-`Clickjacking` · `CORS Misconfiguration` · `Prompt Injection` · `Information Disclosure` · `Arbitrary File Exfiltration` · `IDOR`
+### 🏆 Assigned CVEs
+
+| CVE ID | Target | Type | Severity | Description |
+| :--- | :--- | :--- | :---: | :--- |
+| [**CVE-2026-78280**](https://patchstack.com/database/wordpress/plugin/hash-form/vulnerability/wordpress-hash-form-plugin-1-4-0-cross-site-request-forgery-csrf-vulnerability) | WordPress **Hash Form** Plugin ≤ 1.4.0 | CSRF | ![CVSS 4.3](https://img.shields.io/badge/CVSS-4.3-yellow?style=flat-square) | 비인증 공격자가 인증된 사용자에게 의도치 않은 동작을 강제할 수 있는 CSRF 취약점 발견 · v1.4.1에서 패치 완료 |
+
+### 📋 Reported Vulnerability Classes
+
+`CSRF` · `Clickjacking` · `CORS Misconfiguration` · `Prompt Injection` · `Information Disclosure` · `Arbitrary File Exfiltration` · `IDOR`
 
 <details>
 <summary>📋 <b>Disclosure History (펼쳐보기)</b></summary>
 
 <br/>
+
+**Patchstack** — CVE 발급
+
+- [**CVE-2026-78280**](https://patchstack.com/database/wordpress/plugin/hash-form/vulnerability/wordpress-hash-form-plugin-1-4-0-cross-site-request-forgery-csrf-vulnerability) — WordPress Hash Form Plugin ≤ 1.4.0 CSRF 취약점 발견 및 제보 · OWASP A1: Broken Access Control
 
 **HackerOne** — 아래 6건 제보 *(모두 Duplicate 판정 · 유효 취약점 독립 발견)*
 
