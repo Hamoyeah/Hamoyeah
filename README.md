@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 Kim Sanghyeok ( Hamoyeah )
+# 👾 Hamoyeah
 
 **Offensive Security · Bug Bounty · AI-powered Security Research**
 
