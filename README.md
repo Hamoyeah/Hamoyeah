@@ -21,7 +21,7 @@
 ## 🧭 About Me
 
 ```yaml
-name:        Kim Sanghyeok
+name:        Sanghyeok Kim
 role:        Security Researcher (in training)
 education:   Gachon Univ. — Smart Security (3rd year)
 program:     KISA White Hat School 4기  ·  반장(Class Rep)
