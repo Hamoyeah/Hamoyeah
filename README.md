@@ -61,12 +61,9 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 
 ## 🐛 Bug Bounty & Vulnerability Research
 
-`CSRF` · `Clickjacking` · `CORS Misconfiguration` · `Prompt Injection` · `Information Disclosure` · `Arbitrary File Exfiltration` · `IDOR` · `Missing Authorization`
+`CSRF` · `Missing Authorization`
 
-<details>
-<summary>📋 <b>Disclosure History (펼쳐보기)</b></summary>
-
-<br/>
+### 📋 Disclosure History
 
 **Patchstack** — CVE 발급
 
@@ -75,21 +72,6 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 **Pagelayer** — 공식 보안 기여자 등재
 
 - [**Pagelayer 2.2.0 Missing Authorization**](https://pagelayer.com/blog/pagelayer-v2-2-1-launched/) — Contributor 권한으로 관리자 소유 페이지를 무단 영구 삭제할 수 있는 취약점 발견 및 제보 · **v2.2.1 패치** · 공식 릴리스 노트에 **Sanghyeok Kim (@Hamoyeah)**으로 기여자 등재
-
-**HackerOne** — 6건 제보 *(Duplicate 판정 · 유효 취약점 독립 발견)*
-
-- **Clickjacking** — Login/Signup/Password Reset 페이지의 Framing 보호 미비
-- **Prompt Injection** — `claude-code-action`의 Context Prompt 내 비정제 XML 태그
-- **CORS Misconfiguration** — 임의 Origin이 인증된 GraphQL 요청 수행 가능 *(Netflix)*
-- **CORS Misconfiguration** — 임의 Origin 반영 및 자격 증명 허용 *(quicknode testnet RPC)*
-- **Information Disclosure** — `debug_traceBlockByNumber` RPC 메서드 노출 *(testnet RPC)*
-- **Arbitrary File Exfiltration** — Cache Symlink Escape를 통한 임의 파일 유출
-
-**Findthegap**
-
-- **IDOR** 취약점 제보
-
-</details>
 
 ---
 
