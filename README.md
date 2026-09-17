@@ -59,17 +59,6 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 
 ---
 
-## 🚀 Projects
-
-| Project | Description |
-| :--- | :--- |
-| 🍯 **LLM Prompt Injection Honeypot** | 프롬프트 인젝션 공격을 허니팟 방식으로 유인·대응하는 모델 제작 *(CMUX × AIM 해커톤)* |
-| 🛡️ **Security Monitoring System** | 보안 관제 시스템 설계 및 구현 *(Genspark 해커톤)* |
-| 💥 **CVE-2023-44487 Lab** | HTTP/2 Rapid Reset 취약 환경 구성 및 공격 재현·테스트 |
-| 🚩 **CTF** | 다수 대회 참여 (Web / Misc 중심) |
-
----
-
 ## 🐛 Bug Bounty & Vulnerability Research
 
 `CSRF` · `Clickjacking` · `CORS Misconfiguration` · `Prompt Injection` · `Information Disclosure` · `Arbitrary File Exfiltration` · `IDOR` · `Missing Authorization`
@@ -101,5 +90,16 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 - **IDOR** 취약점 제보
 
 </details>
+
+---
+
+## 🚀 Projects
+
+| Project | Description |
+| :--- | :--- |
+| 🍯 **LLM Prompt Injection Honeypot** | 프롬프트 인젝션 공격을 허니팟 방식으로 유인·대응하는 모델 제작 *(CMUX × AIM 해커톤)* |
+| 🛡️ **Security Monitoring System** | 보안 관제 시스템 설계 및 구현 *(Genspark 해커톤)* |
+| 💥 **CVE-2023-44487 Lab** | HTTP/2 Rapid Reset 취약 환경 구성 및 공격 재현·테스트 |
+| 🚩 **CTF** | 다수 대회 참여 (Web / Misc 중심) |
 
 ---
