@@ -61,9 +61,13 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 
 ## 🐛 Bug Bounty & Vulnerability Research
 
-`CSRF` · `Missing Authorization`
+`CSRF` · `Missing Authorization` · `TLS Hostname Verification`
 
 ### 📋 Disclosure History
+
+**Files.com** — HackerOne Bounty · Resolved
+
+- **Java SDK / MuleSoft Connector TLS Hostname Verification Vulnerability** — TLS 인증서 체인은 검증되지만 요청 호스트명과 인증서의 identity가 일치하는지 확인하지 않아, 신뢰된 CA가 발급한 다른 호스트용 인증서가 사용되는 경우 API Key가 잘못된 endpoint로 전송될 수 있는 취약점 발견 및 제보 · **Java SDK 및 MuleSoft Connector 패치** · 수정 버전 Maven Central 배포 · HackerOne **Resolved** 및 bounty 지급
 
 **Patchstack** — CVE 발급
 
