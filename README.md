@@ -11,7 +11,7 @@
 ![Web Hacking](https://img.shields.io/badge/Web_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-1B1F23?style=for-the-badge&logo=hackerone&logoColor=white)
 ![CVE](https://img.shields.io/badge/CVE_Hunter-DC143C?style=for-the-badge&logo=cveproject&logoColor=white)
-![Reversing](https://img.shields.io/badge/Reverse_Engineering-2D2D2D?style=for-the-badge&logo=ghidra&logoColor=white)
+![Reversing](https://img.shields.io/badge/Reverse_Engineering-2D2D2D?style=flat-square&logo=ghidra&logoColor=white)
 ![CTF](https://img.shields.io/badge/CTF_Player-121212?style=for-the-badge&logo=flag&logoColor=red)
 
 </div>
@@ -64,6 +64,15 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 `CSRF` · `Missing Authorization` · `TLS Hostname Verification`
 
 ### 📋 Disclosure History
+
+**Vercel** — Vulnerability Reported
+
+- **Turborepo Cache Symlink Escape / Arbitrary File Disclosure** — 악성 cache entry를 통해 anchor 외부의 민감 파일이 원격 cache에 포함될 수 있는 취약점 발견 및 제보
+
+**Circle** — Vulnerabilities Reported
+
+- **Arc Testnet RPC Debug Method Exposure** — 인증 없이 `debug_traceBlockByNumber`를 호출해 상세 EVM execution trace를 조회할 수 있는 구성 발견 및 제보
+- **Arc Testnet RPC CORS Misconfiguration** — 임의 Origin 반영과 credential 허용이 함께 적용된 CORS 설정 오류 발견 및 제보
 
 **Files.com** — HackerOne Bounty · Resolved
 
