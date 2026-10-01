@@ -67,7 +67,7 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 
 **Files.com** — HackerOne Bounty · Resolved
 
-- [**Java SDK / MuleSoft Connector TLS Hostname Verification**](https://developers.files.com/mulesoft/overview/introduction/#installation) — 잘못된 hostname의 인증서를 허용해 API Key가 오인된 endpoint로 전송될 수 있는 취약점 발견 및 제보 · **패치 및 Maven Central 배포** · HackerOne **Resolved**
+- **Java SDK / MuleSoft Connector TLS Hostname Verification** — 잘못된 hostname 인증서를 허용할 수 있는 취약점 발견 및 제보 · **Java SDK 및 MuleSoft Connector 패치** · HackerOne **Resolved**
 
 **Patchstack** — CVE 발급
 
