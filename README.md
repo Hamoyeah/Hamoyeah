@@ -11,7 +11,7 @@
 ![Web Hacking](https://img.shields.io/badge/Web_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-1B1F23?style=for-the-badge&logo=hackerone&logoColor=white)
 ![CVE](https://img.shields.io/badge/CVE_Hunter-DC143C?style=for-the-badge&logo=cveproject&logoColor=white)
-![Reversing](https://img.shields.io/badge/Reverse_Engineering-2D2D2D?style=flat-square&logo=ghidra&logoColor=white)
+![Reversing](https://img.shields.io/badge/Reverse_Engineering-2D2D2D?style=for-the-badge&logo=ghidra&logoColor=white)
 ![CTF](https://img.shields.io/badge/CTF_Player-121212?style=for-the-badge&logo=flag&logoColor=red)
 
 </div>
