@@ -77,11 +77,10 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 
 - **Java SDK / MuleSoft Connector TLS Hostname Verification** — 잘못된 hostname 인증서를 허용할 수 있는 취약점 발견 및 제보 · **Java SDK 및 MuleSoft Connector 패치** · HackerOne **Resolved**
 
-**Vercel** — Vulnerability Reported
-
+**Vercel** 
 - **Turborepo Cache Symlink Escape / Arbitrary File Disclosure** — 외부의 민감 파일이 원격 cache에 포함될 수 있는 취약점 발견 및 제보
 
-**Circle** — Vulnerabilities Reported
+**Circle**
 
 - **Arc Testnet RPC Debug Method Exposure** — 인증 없이 상세 EVM execution trace를 조회할 수 있는 구성 발견 및 제보
 - **Arc Testnet RPC CORS Misconfiguration** — 임의 Origin 반영과 credential 허용이 함께 적용된 CORS 설정 오류 발견 및 제보
