@@ -2,7 +2,7 @@
 
 # 👾 Hamoyeah
 
-**Offensive Security · Bug Bounty · AI-powered Security Research**
+**Offensive Security · Bug Bounty · Security Research**
 
 가천대학교 스마트보안전공 · White Hat School 4기
 
