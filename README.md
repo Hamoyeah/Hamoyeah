@@ -83,9 +83,14 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 - **Turborepo Cache Symlink Escape / Arbitrary File Disclosure** — 외부의 민감 파일이 원격 cache에 포함될 수 있는 취약점 발견 및 제보
 
 **Circle**
-
 - **Arc Testnet RPC Debug Method Exposure** — 인증 없이 상세 EVM execution trace를 조회할 수 있는 구성 발견 및 제보
 - **Arc Testnet RPC CORS Misconfiguration** — 임의 Origin 반영과 credential 허용이 함께 적용된 CORS 설정 오류 발견 및 제보
+
+**Widget Options**
+- Pending Patch - Widget Options - Remote Code Execution (RCE) -
+
+**ELEX WooCommerce**
+Pending Patch - ELEX WooCommerce Advanced Bulk Edit - Insecure Direct Object Reference (IDOR) -
 
 ---
 
