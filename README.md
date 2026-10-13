@@ -90,7 +90,7 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 - Pending Patch - Widget Options - Remote Code Execution (RCE) -
 
 **ELEX WooCommerce**
-Pending Patch - ELEX WooCommerce Advanced Bulk Edit - Insecure Direct Object Reference (IDOR) -
+- Pending Patch - ELEX WooCommerce Advanced Bulk Edit - Insecure Direct Object Reference (IDOR) -
 
 ---
 
