@@ -56,7 +56,7 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 | CVE ID | Target | Type | Severity | Description |
 | :--- | :--- | :--- | :---: | :--- |
 | [**CVE-2026-78280**](https://nvd.nist.gov/vuln/detail/cve-2026-78280) | WordPress **Hash Form** Plugin ≤ 1.4.0 | CSRF | ![CVSS 4.3](https://img.shields.io/badge/CVSS-4.3-yellow?style=flat-square) | 비인증 공격자가 인증된 사용자에게 의도치 않은 동작을 강제할 수 있는 CSRF 취약점 · v1.4.1 패치 |
-| [**CVE-2026-103083**](https://nvd.nist.gov/vuln/detail/CVE-2026-103083) | WordPress **ELEX WooCommerce Advanced Bulk Edit** Plugin ≤ 1.5.3 | IDOR (CWE-639) | ![CVSS 5.4](https://img.shields.io/badge/CVSS-5.4-orange?style=flat-square) | Subscriber 권한에서 접근 통제를 우회하여 WooCommerce 상품을 무단 삭제할 수 있는 취약점 · v1.5.4 패치 |
+| [**CVE-2026-103083**](https://nvd.nist.gov/vuln/detail/CVE-2026-103083) | WordPress **ELEX WooCommerce Advanced Bulk Edit** Plugin ≤ 1.5.3 | IDOR (CWE-639) | ![CVSS 5.4](https://img.shields.io/badge/CVSS-5.4-orange?style=flat-square) | 접근 통제를 우회하여 WooCommerce 상품을 무단 삭제할 수 있는 취약점 · v1.5.4 패치 |
 
 ---
 
