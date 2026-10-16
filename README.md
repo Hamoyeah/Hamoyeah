@@ -79,14 +79,14 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 - [**Pagelayer 2.2.0 Missing Authorization**](https://pagelayer.com/blog/pagelayer-v2-2-1-launched/) — 관리자 소유 페이지를 무단 영구 삭제할 수 있는 취약점 발견 및 제보
 
 **Files.com**
-- **Java SDK / MuleSoft Connector TLS Hostname Verification** — 잘못된 hostname 인증서를 허용할 수 있는 취약점 발견 및 제보 · **Java SDK 및 MuleSoft Connector 패치** ·
+- **Java SDK / MuleSoft Connector TLS Hostname Verification** — 잘못된 hostname 인증서를 허용할 수 있는 취약점 발견 및 제보
 
 **X / xAI**
-- **Android 사진 접근 권한 우회 및 이미지 노출 취약점** — X 앱의 사진 권한을 악용한 이미지 접근 취약점 발견 및 HackerOne 제보
+- **Android 사진 접근 권한 우회 및 이미지 노출 취약점** — X 앱의 사진 권한을 악용한 이미지 접근 취약점 발견 및 제보
 
 **Vercel** 
 - **Turborepo Cache Symlink Escape / Arbitrary File Disclosure** — 외부의 민감 파일이 원격 cache에 포함될 수 있는 취약점 발견 및 제보
 
 **Circle**
 - **Arc Testnet RPC Debug Method Exposure** — 인증 없이 상세 EVM execution trace를 조회할 수 있는 구성 발견 및 제보
-- **Arc Testnet RPC CORS Misconfiguration** — 임의 Origin 반영과 credential 허용이 함께 적용된 CORS 설정 오류 발견 및 제보
+- **Arc Testnet RPC CORS Misconfiguration** — CORS 설정 오류 발견 및 제보
