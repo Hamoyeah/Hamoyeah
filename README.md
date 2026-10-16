@@ -74,7 +74,7 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 **Pagelayer** 
 - [**Pagelayer 2.2.0 Missing Authorization**](https://pagelayer.com/blog/pagelayer-v2-2-1-launched/) — 관리자 소유 페이지를 무단 영구 삭제할 수 있는 취약점 발견 및 제보 · 공식 릴리스 노트에 Sanghyeok Kim (@Hamoyeah)으로 기여자 등재
 
-- **Widget Options**
+**Widget Options**
 - Pending Patch - Widget Options - Remote Code Execution (RCE) -
 
 **Files.com**
