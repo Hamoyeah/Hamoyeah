@@ -66,16 +66,17 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 
 ### 📋 Disclosure History
 
-**Patchstack** — CVE 발급
+**Widget Options**
+- Pending Patch - Widget Options - Remote Code Execution (RCE)
 
-- [**CVE-2026-78280**](https://nvd.nist.gov/vuln/detail/cve-2026-78280) — Hash Form CSRF 취약점 발견 및 제보
+**ELEX WooCommerce**
 - [**CVE-2026-103083**](https://nvd.nist.gov/vuln/detail/CVE-2026-103083) — ELEX WooCommerce Advanced Bulk Edit 상품 무단 삭제 IDOR 취약점 발견 및 제보
+
+**Hash Form**
+- [**CVE-2026-78280**](https://nvd.nist.gov/vuln/detail/cve-2026-78280) — Hash Form CSRF 취약점 발견 및 제보
 
 **Pagelayer** 
 - [**Pagelayer 2.2.0 Missing Authorization**](https://pagelayer.com/blog/pagelayer-v2-2-1-launched/) — 관리자 소유 페이지를 무단 영구 삭제할 수 있는 취약점 발견 및 제보
-  
-**Widget Options**
-- Pending Patch - Widget Options - Remote Code Execution (RCE) -
 
 **Files.com**
 - **Java SDK / MuleSoft Connector TLS Hostname Verification** — 잘못된 hostname 인증서를 허용할 수 있는 취약점 발견 및 제보 · **Java SDK 및 MuleSoft Connector 패치** ·
