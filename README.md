@@ -4,7 +4,7 @@
 
 **Offensive Security · Bug Bounty · Security Research**
 
-가천대학교 스마트보안전공 · White Hat School 4기
+가천대학교 스마트보안전공 · WhiteHat School 4기
 
 <br/>
 
