@@ -52,8 +52,8 @@ focus:       [ Web Security, Bug Bounty, Reverse Engineering, AI x Security ]
 
 ## 🏆 Assigned CVEs
 
-| CVE ID | Target | Type | Severity | Description |
-| :--- | :--- | :--- | :---: | :--- |
+| CVE ID | Target | Type | Severity |
+| :--- | :--- | :--- | :---: |
 | [**CVE-2026-116852**](https://nvd.nist.gov/vuln/detail/CVE-2026-116852) | **Widget Options** | RCE (CWE-94) | ![CVSS 9.1](https://img.shields.io/badge/CVSS-9.1-critical?style=flat-square) | 
 | [**CVE-2026-78280**](https://nvd.nist.gov/vuln/detail/cve-2026-78280) | **Hash Form** | CSRF | ![CVSS 4.3](https://img.shields.io/badge/CVSS-4.3-yellow?style=flat-square) |
 | [**CVE-2026-103083**](https://nvd.nist.gov/vuln/detail/CVE-2026-103083) | **ELEX WooCommerce Advanced Bulk Edit** | IDOR (CWE-639) | ![CVSS 5.4](https://img.shields.io/badge/CVSS-5.4-orange?style=flat-square) |
